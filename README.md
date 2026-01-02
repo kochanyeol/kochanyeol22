@@ -33,13 +33,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=default)
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
-
-<br/>
+아직 준비중입니다.
 
 ## 📫 Contact & More
 - 이 GitHub는 **개인 웹사이트이자 성장 기록**입니다.
