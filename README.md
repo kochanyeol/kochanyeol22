@@ -95,7 +95,8 @@
 고찬열
 
 
-<img src="./oz_codingschool_typewriter_fix.gif" width="100%" />
+![oz_codingschool_typewriter_fix](https://github.com/user-attachments/assets/d51cf1de-bdca-46c1-9bd8-21ac9d5cb9d0)
+
 
 
 
