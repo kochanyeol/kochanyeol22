@@ -1,7 +1,55 @@
 # OZ_BE_17_고찬열
 <div>
   
-![header](https://capsule-render.vercel.app/api?type=rect&height=260&color=0:141e30,100:243b55&text=CHANYEOL%20SYSTEM&fontColor=ffffff&fontSize=44&desc=SYSTEM%20STABILITY%3A%2098.7%25&descAlignY=70)
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#141e30"/>
+      <stop offset="100%" stop-color="#243b55"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 배경 -->
+  <rect width="1200" height="260" fill="url(#grad)">
+    <animate attributeName="opacity"
+             from="0" to="1"
+             dur="1.2s" fill="freeze"/>
+  </rect>
+
+  <!-- 깨진 모서리 느낌 파편 -->
+  <polygon points="1180,0 1200,0 1200,30"
+           fill="#1b2b3f">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="0 -10" to="0 5"
+      dur="2s" repeatCount="indefinite"/>
+  </polygon>
+
+  <!-- 텍스트 -->
+  <text x="600" y="120"
+        text-anchor="middle"
+        fill="white"
+        font-size="44"
+        opacity="0">
+    CHANYEOL SYSTEM
+    <animate attributeName="opacity"
+             from="0" to="1"
+             dur="1s" begin="0.6s"
+             fill="freeze"/>
+  </text>
+
+  <text x="600" y="165"
+        text-anchor="middle"
+        fill="white"
+        font-size="18"
+        opacity="0.85">
+    Thinking in Code. Building with Logic.
+  </text>
+</svg>
+
 
 
 
