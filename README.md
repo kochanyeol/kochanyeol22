@@ -91,7 +91,8 @@
 고찬열
 
 
-![oz_codingschool_typewriter_fix](https://github.com/user-attachments/assets/d51cf1de-bdca-46c1-9bd8-21ac9d5cb9d0)
+![snake](https://github.com/YOUR_ID/YOUR_ID/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
