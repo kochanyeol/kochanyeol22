@@ -24,10 +24,10 @@
 
 <br/>
 
-## 🧱 Tech Stack  
+## 🧱 강의
 
-### 💬 Language
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
+### 💬 오즈 코딩스쿨
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
 
 
 <br/>
