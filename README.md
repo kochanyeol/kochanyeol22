@@ -33,7 +33,8 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
 
 ### 🛠️ 기술 스택
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f8e6fe1-ecd2-46b0-9f70-0379278998b7" /> <img width="100" height="100" alt="다운로드-removebg-preview" src="https://github.com/user-attachments/assets/b6bf20e9-9849-4362-8a72-a1e54f110e16" />
+<img width="100" height="100" alt="다운로드__1_-removebg-preview" src="https://github.com/user-attachments/assets/49288042-d489-4539-8c45-1ac8c9af40c2" />
+ <img width="100" height="100" alt="다운로드-removebg-preview" src="https://github.com/user-attachments/assets/b6bf20e9-9849-4362-8a72-a1e54f110e16" />
 
 <img width="100" height="100" alt="스크린샷_2026-01-02_145059-removebg-preview" src="https://github.com/user-attachments/assets/c0fadfa3-1f51-46bf-bd08-c7a8bc7a0500" />
 
