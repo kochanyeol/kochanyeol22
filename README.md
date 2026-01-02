@@ -7,7 +7,7 @@
 
 <div>
 
-## 👀 About Me  
+## 👀 나에 대해서  
 
 #### 🙋‍♂️ 안녕하세요, 문제를 해결하는 개발자입니다.
 - 사용자 입장에서 **불편함을 발견하고 해결하는 과정**을 좋아합니다.  
@@ -28,19 +28,6 @@
 
 ### 💬 오즈 코딩스쿨
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e4ef0439-d66d-4ee8-9250-11ba547243bc" />
-
-
-<br/>
-
-### 🧩 Framework
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-
-<br/>
-
-### 🛠 ETC
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br/><br/>
 
