@@ -8,7 +8,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a ...<br/>
+  #### :raising_hand: I am a 고찬열<br/>
   #### :fire: I aim to become a ...<br/>
   #### :mortar_board: ...
   <br/>
