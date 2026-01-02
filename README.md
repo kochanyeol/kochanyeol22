@@ -9,7 +9,7 @@
   
   ## 👀 About Me
   #### :raising_hand: 안녕하세요 저는 고찬열입니다<br/>
-  #### :fire: I aim to become a ...<br/>
+  #### :fire: 저는 앞으로 남은 수강기간동안 많은것들을 배우면서 노력하려합니다 /n앞으로 많은 기대 부탁드립니다.<br/>
   #### :mortar_board: ...
   <br/>
   <br/>
