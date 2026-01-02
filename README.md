@@ -91,7 +91,7 @@
 고찬열
 
 
-![snake](https://github.com/YOUR_ID/YOUR_ID/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
